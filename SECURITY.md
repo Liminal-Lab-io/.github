@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in any Liminal Labs repository, please report it responsibly. **Do not open a public issue.**
 
-Email **security@liminal-labs.io** with:
+Email **security@liminallab.io** with:
 
 - Description of the vulnerability
 - Steps to reproduce
