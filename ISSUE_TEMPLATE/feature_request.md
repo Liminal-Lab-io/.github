@@ -1,22 +1,22 @@
 ---
 name: Feature Request
-about: Suggest a new feature or improvement
-title: "[Feature] "
+about: Suggest an improvement or new capability
+title: ""
 labels: enhancement
 ---
 
 ## Problem
 
-<!-- What problem does this solve? -->
+<!-- What pain point or limitation does this address? -->
 
-## Proposed Solution
+## Proposed solution
 
-<!-- How should it work? -->
+<!-- How should it work? Be specific. -->
 
-## Alternatives Considered
+## Alternatives considered
 
-<!-- Any other approaches you've thought about? -->
+<!-- What other approaches did you think about? -->
 
-## Additional Context
+## Context
 
-<!-- Mockups, examples, or references. -->
+<!-- Links, mockups, or examples that help illustrate the idea. -->

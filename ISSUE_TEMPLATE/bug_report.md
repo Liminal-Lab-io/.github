@@ -1,34 +1,30 @@
 ---
 name: Bug Report
-about: Report a bug or unexpected behavior
-title: "[Bug] "
+about: Something isn't working as expected
+title: ""
 labels: bug
 ---
 
-## Description
+## What happened?
 
-<!-- A clear description of the bug. -->
+<!-- Describe the bug clearly. -->
 
-## Steps to Reproduce
+## Steps to reproduce
 
 1.
 2.
 3.
 
-## Expected Behavior
+## Expected behavior
 
-<!-- What should happen? -->
-
-## Actual Behavior
-
-<!-- What happens instead? -->
+<!-- What should have happened instead? -->
 
 ## Environment
 
-- **Browser**:
-- **OS**:
-- **Route/Page**:
+- **Browser / OS:**
+- **Route:**
+- **Account type:** <!-- Free / Pro / Enterprise -->
 
 ## Screenshots
 
-<!-- If applicable, add screenshots. -->
+<!-- Attach screenshots if they help explain the issue. -->

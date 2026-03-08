@@ -1,6 +1,6 @@
 ## Summary
 
-<!-- What does this PR do? Keep it brief. -->
+<!-- One or two sentences — what does this PR do and why? -->
 
 ## Type of change
 
@@ -11,14 +11,19 @@
 - [ ] Documentation
 - [ ] Infrastructure / CI
 
+## Changes
+
+<!-- List the key changes. Keep it concise. -->
+
+-
+
 ## Testing
 
-<!-- How was this tested? -->
-
-- [ ] Ran `npm run build` successfully
-- [ ] Verified in browser (attach screenshots if UI change)
-- [ ] No console errors
+- [ ] `npm run build` passes
+- [ ] Verified in browser
+- [ ] No console errors or warnings
+- [ ] Tested on mobile viewport (if UI change)
 
 ## Screenshots
 
-<!-- If applicable, add screenshots or screen recordings. -->
+<!-- Attach before/after screenshots for any UI change. Delete this section if not applicable. -->
